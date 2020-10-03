@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyCountryProfile</string>
+    <string name="bangladesh_name">Bangladesh</string>
+    <string name="india_name">India</string>
+    <string name="australia_name">Australia</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_msg">Exit!</string>
+    <string name="bangladesh_text">
+        He was bought by Kolkata Knight Riders for the 2009 Indian Premier League; although KKR paid US$ 600,000 for Mortaza. Due to his international commitments, Mortaza has infrequently played for Khulna Division in Bangladeshs domestic cricket competitions.
+
+While he has represented Bangladesh 36 times in Tests and in 100 ODIs between 2001 and 2005 he played only 11 first-class and 9 list A matches for Khulna Division in the same period.[14][15] In 2012 he joined the Dhaka Gladiators and 2015 from Comilla Victorians in the newly formed Bangladesh Premier League twenty20 competition and captained them to the tournament title and led Comilla Victorians clinch the title of the third 3rd Bangladesh Premier League (BPL) as well as champion of 2017 Bangladesh Premier League fourth time as captain. This time he played for Rangpur Riders.
+
+In March 2018, Mortaza took four wickets in four balls bowling for Abahani Limited against Agrani Bank Cricket Club in the 2017–18 Dhaka Premier Division Cricket League.[16] He took his first List A hat-trick and became the first Bangladeshi bowler to take four wickets in four balls in List A cricket.[16] He finished the 2017–18 Dhaka Premier Division Cricket League as the leading wicket-taker of the tournament, with 39 dismissals in 16 matches.[17]
+
+In October 2018, he was named in the squad for the Rangpur Riders team, following the draft for the 2018–19 Bangladesh Premier League.[18] He was the leading wicket-taker for the team in the tournament, with 22 dismissals in 14 matches.[19]
+    </string>
+    <string name="india_text">You! Looking For What!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        India.
+    </string>
+    <string name="australia_text">You! Looking For What!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Australia.
+    </string>
+</resources>
